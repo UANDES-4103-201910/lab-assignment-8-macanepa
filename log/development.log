@@ -1,0 +1,2099 @@
+Started GET "/" for 127.0.0.1 at 2019-05-08 08:46:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 1679ms (Views: 1674.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:06:14 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 114ms (Views: 111.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:18:59 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 105ms (Views: 103.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:19:25 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:20:00 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 82ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:20:02 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:21:39 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 79ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:21:55 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 85ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:22:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 83ms (Views: 81.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:25:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 81ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:25:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 91ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:27:29 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 85ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:29:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 78ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:30:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 85ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:31:01 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 77ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:31:22 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 89ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:31:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 89ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:31:51 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 84ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:33:08 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 99ms (Views: 97.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:33:59 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 82ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:37:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 82ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:37:55 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 86ms (Views: 84.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:38:53 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 93ms (Views: 92.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:39:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 83ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:40:00 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 84ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:40:24 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 93ms (Views: 92.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:40:38 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 82ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:40:50 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 82ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:41:28 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:42:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 22.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:44:37 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 132ms (Views: 130.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:45:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 122ms (Views: 119.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:45:25 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 105ms (Views: 103.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:45:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:45:40 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:45:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:46:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 88ms (Views: 86.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:47:02 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 99ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:47:23 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 101ms (Views: 99.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:48:17 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 109ms (Views: 107.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:48:26 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:49:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 123ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:50:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 128ms (Views: 126.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:51:54 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 123ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:52:18 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 98ms (Views: 97.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:52:41 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 125ms (Views: 123.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:52:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 86ms (Views: 84.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:55:03 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 95ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:57:23 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 93ms (Views: 91.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:57:40 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 91ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 09:58:57 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 97ms (Views: 95.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:00:34 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 99ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:01:14 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 105ms (Views: 102.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:01:22 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 98ms (Views: 97.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:02:38 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 96ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:02:54 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 103ms (Views: 101.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:03:49 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 112ms (Views: 110.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:04:51 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 99ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:08:20 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 89ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:09:00 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 85ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:09:31 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 90ms (Views: 88.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:10:56 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 81ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:11:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 83ms (Views: 81.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:14:47 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 83ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:15:13 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 93ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:15:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 104ms (Views: 102.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:20:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:21:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 80ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:21:12 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 83ms (Views: 81.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:21:51 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 84ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:22:06 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 108ms (Views: 107.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:22:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:23:50 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 87ms (Views: 86.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:25:12 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 77ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:26:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:26:55 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:28:30 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 86ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:29:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:29:13 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:29:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:30:20 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:31:19 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 91ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:31:44 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 94ms (Views: 91.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:48:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 95ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:49:03 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 107ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:49:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 82ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:49:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 89ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:49:19 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:49:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 79ms (Views: 77.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:49:50 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:50:11 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 84ms (Views: 82.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:50:19 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 101ms (Views: 100.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:50:25 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:50:57 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 91ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:51:05 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 86ms (Views: 85.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:53:05 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 103ms (Views: 101.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:53:17 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 91ms (Views: 89.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:54:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 116ms (Views: 114.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:54:55 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 93ms (Views: 92.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:54:59 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 85ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:55:08 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 99ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:55:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 98ms (Views: 95.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:55:51 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 84ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:55:57 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 100ms (Views: 98.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:56:02 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 103ms (Views: 101.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:57:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 103ms (Views: 101.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:57:20 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 78ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:57:34 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 91ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:58:14 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 83ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 10:59:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 92ms (Views: 91.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:01:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 101ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:03:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 81ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:03:31 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 85ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:03:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 22ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:03:34 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:04:22 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:05:03 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:05:22 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 82ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:06:40 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 88ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:06:47 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 77ms (Views: 75.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:07:13 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 95ms (Views: 93.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:07:19 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 23ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:07:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 97ms (Views: 95.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:08:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 87ms (Views: 86.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:09:00 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 111ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:09:37 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:09:47 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 84ms (Views: 82.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:10:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 86ms (Views: 84.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:10:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 83ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:10:22 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 95ms (Views: 92.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:10:39 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 99ms (Views: 98.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:10:51 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 81ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:11:16 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 94ms (Views: 91.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:11:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 91ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:12:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 89ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:12:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 81ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:12:54 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:13:26 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 78ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:13:38 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 82ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:13:49 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 80ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:14:05 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 80ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:14:50 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 82ms (Views: 80.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:15:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 89ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:15:18 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 102ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:15:27 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 86ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:15:41 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 109ms (Views: 107.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:16:12 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 99ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:16:27 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 102ms (Views: 101.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:16:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 125ms (Views: 123.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:17:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 85ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:18:23 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 91ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:18:52 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 102ms (Views: 100.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:20:24 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 95ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:20:35 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 94ms (Views: 93.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:21:25 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 96ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:21:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 81ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:22:02 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 96ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:22:25 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 94ms (Views: 93.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:23:07 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 96ms (Views: 93.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:24:40 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 108ms (Views: 106.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:25:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 94ms (Views: 92.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:26:50 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:38:52 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 98ms (Views: 96.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:39:05 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 105ms (Views: 103.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:39:38 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 81ms (Views: 80.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:39:56 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 93ms (Views: 91.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:44:53 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 110ms (Views: 108.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:44:55 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:45:06 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:45:07 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 24.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:46:18 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:56:54 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 47ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:57:03 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:57:05 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:57:21 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 40ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:57:52 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 33ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:01 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:03 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:17 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 37ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:25 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:27 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 32ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:37 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 11:59:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:00:21 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 45ms (Views: 43.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:01:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:01:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 19.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:01:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:01:44 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 30ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:01:56 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:13:27 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:13:29 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-08 12:19:41 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:19:45 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/demo2"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:20:45 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template 'keyboard_demos/demo2' with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/matias/Desktop/lab-assignment-8-macanepa/app/views"
+):
+  
+app/controllers/keyboard_demos_controller.rb:6:in `demo2'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:20:52 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/js/keyboard_od.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:20:54 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/js/keyboard_od.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:21:42 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/js/keyboard_od.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:26:01 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 100ms (Views: 99.6ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/javascript/keyboard2.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:28:26 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/js/keyboard_od.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:28:27 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/js/keyboard_od.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo2" for 127.0.0.1 at 2019-05-08 12:33:46 -0400
+Processing by KeyboardDemosController#demo2 as HTML
+  Rendering keyboard_demos/demo2.html.erb within layouts/application
+  Rendered keyboard_demos/demo2.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/js/keyboard2.js"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:65:in `block (3 levels) in broadcast'
+activesupport (5.2.3) lib/active_support/logger_silence.rb:21:in `silence'
+activesupport (5.2.3) lib/active_support/logger.rb:63:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:33:22 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 352ms (Views: 345.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:34:49 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 101ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo1" for 127.0.0.1 at 2019-05-09 16:36:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/demo1"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/demo" for 127.0.0.1 at 2019-05-09 16:36:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/demo"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:36:51 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:37:06 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 84ms (Views: 82.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:38:06 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 85ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:38:29 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:39:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 82ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:40:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 120ms (Views: 118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:42:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 96ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:43:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 103ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:44:42 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 98ms (Views: 96.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:46:06 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 83ms (Views: 81.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:49:53 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 90ms (Views: 88.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:51:10 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 82ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:51:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 92ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:51:48 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:52:09 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 27.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:53:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 25ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-05-09 16:54:30 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 34ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:54:59 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 79ms (Views: 77.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:55:19 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 91ms (Views: 90.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:55:54 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 96ms (Views: 94.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:56:08 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 96ms (Views: 95.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:56:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 83ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:57:02 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 89ms (Views: 87.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:57:58 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 98ms (Views: 96.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:58:06 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 95ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:58:24 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 83ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:58:33 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 16:58:43 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 95ms (Views: 93.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:00:48 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 95ms (Views: 94.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:01:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 93ms (Views: 91.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:01:49 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 115ms (Views: 113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:03:46 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 108ms (Views: 106.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:04:19 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:05:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 107ms (Views: 105.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:05:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 95ms (Views: 93.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:06:15 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 96ms (Views: 93.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:08:05 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 27ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:09:36 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 84ms (Views: 82.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:10:32 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 126ms (Views: 124.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:11:20 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 85ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:12:04 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 92ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:12:18 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 98ms (Views: 96.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:12:24 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 94ms (Views: 92.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:12:37 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 88ms (Views: 86.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:12:52 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 109.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:13:21 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 100ms (Views: 97.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-09 17:13:48 -0400
+Processing by KeyboardDemosController#demo1 as HTML
+  Rendering keyboard_demos/demo1.html.erb within layouts/application
+  Rendered keyboard_demos/demo1.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
